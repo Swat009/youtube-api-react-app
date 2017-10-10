@@ -1,6 +1,6 @@
 # React.js based app for fetching and displaying videos from Youtube API
 
-A simple React.js app that fetches videos from youtube using Youtube's API based on search made by user and plays the video selected.
+A simple React.js app that fetches videos using Youtube's API based on search made by user and plays the video selected.
 
 ### Getting Started
 
