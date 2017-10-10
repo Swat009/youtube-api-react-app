@@ -6,7 +6,7 @@ A simple React.js app that fetches videos using Youtube's API based on search ma
 
 
 
-Simply clone this repo, install dependencies, then proceed as follow:
+Simply clone this repo, install dependencies, then proceed as follows:
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
