@@ -1,25 +1,18 @@
-# ReduxSimpleStarter
+# React.js based app for fetching and displaying videos from Youtube API
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A simple React.js app that fetches videos from youtube using Youtube's API based on search made by user and plays the video selected.
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+
+Simply clone this repo, install dependencies, then proceed as follow:
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
 > cd ReduxSimpleStarter
 > npm install
+>Get your Youtube api key from https://console.developers.google.com/ and add your key to variable const API_KEY='Your API Key' in your-project-directory/scr/index.js (Line 7)
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
